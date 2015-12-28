@@ -3,6 +3,8 @@
 Super simple app that shows remote Linux host load as System tray icon. Tested on Mac OS X, but looks like
 compatible with MS Windows and Linux X.
 
+You can download prebuilt uber-jar from [here](https://github.com/o/system-tray-load-app/releases/download/1.0.0/loadapp-1.0.0.jar).
+
 ![Screenshot](https://raw.githubusercontent.com/o/system-tray-load-app/master/screenshot.png)
 
 ##### Requirements
